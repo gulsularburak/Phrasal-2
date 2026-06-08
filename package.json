@@ -1,0 +1,16 @@
+{
+  "name": "sinaps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sinaps - Phrasal Verb Antrenoru",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/splash-screen": "^7.0.0",
+    "@capacitor-community/speech-recognition": "*",
+    "@capacitor-community/text-to-speech": "*"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}
